@@ -1,0 +1,4 @@
+#Fri Jul 12 20:00:41 WIB 2024
+base.0=C\:\\Users\\Ridho\\Videos\\flutter_projects\\warehouse_project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
